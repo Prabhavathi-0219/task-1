@@ -1,1 +1,1 @@
-# task-1
+This project is a simple interactive quiz game developed in Python for the command-line interface. It allows users to answer a series of multiple-choice or short-answer questions, provides immediate feedback on each response, and calculates the final score at the end of the quiz. 
